@@ -15,7 +15,7 @@ The dataset used in this project is a **2025 job market dataset sourced from Kag
 ## 📁 Project File
 
 - 📊 **Final Dashboard:**  
-  [Job_Market_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx)
+  [Job_Market_Salary_Dashboard.xlsx](https://github.com/AditiJ281/DataScience_AI_Salary_Dashboard/blob/main/ai_job_dataset1.csv)
 
 ---
 
